@@ -13,5 +13,5 @@ Página web  de un local de ropa, donde posee las principales funcionalidades de
 Puedes encontrarme en las siguientes redes sociales:
 
 - **[Github](https://github.com/santvallejos).**
-- **[Linkedin](www.linkedin.com/in/santiago-vallejos-97a933236).**
+- **[Linkedin](https://www.linkedin.com/in/santiago-vallejos-97a933236/).**
 - **[Página web](https://santiagodev.netlify.app).**
