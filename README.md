@@ -5,13 +5,13 @@ Página web  de un local de ropa, donde posee las principales funcionalidades de
 ## Tecnologías utilizadas
 
 - **[Laravel]**
--**[Tailwind CSS]**
--**[Vue.JS]**
+- **[Tailwind CSS]**
+- **[Vue.JS]**
 
 ## Contacto
 
 Puedes encontrarme en las siguientes redes sociales:
 
--**[Github](https://github.com/santvallejos).**
--**[Linkedin](www.linkedin.com/in/santiago-vallejos).**
--**[Página web](https://santiagodev.netlify.app).**
+- **[Github>](https://github.com/santvallejos).**
+- **[Linkedin](www.linkedin.com/in/santiago-vallejos).**
+- **[Página web](https://santiagodev.netlify.app).**
