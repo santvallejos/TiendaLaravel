@@ -1,0 +1,6 @@
+Laravel/ui
+# composer require laravel/ui instalación.
+# Instalacion de paquetes para laravel/ui
+    1.php artisan ui bootstrap --auth
+    2.npm install (Puede que se notifique que hay vulnerabilidades entonces ejecutamos: npm audit fix --force)
+    3.Correr el login y register con npm run dev
