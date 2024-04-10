@@ -9,3 +9,5 @@ Cuando Modificamos el .env Suele quedar barusa en la cache, lo que debemos reali
 # php artisan config:clear
 # php artisan config:cache
 # php artisan cache:clear
+
+Instalacion de Tailwind CSS al proyecto (Seguir procesos de instalación para laravel).
